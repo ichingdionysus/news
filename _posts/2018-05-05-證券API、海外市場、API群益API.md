@@ -8,7 +8,7 @@ header-img: img/post-bg-kuaidi.jpg
 catalog: true
 tags:
     - API
-    
+    - 程式交易
 ---
 
 API的中文是『應用程式介面』，是Application Programming Interface的首字縮寫，大家習慣直接說API。 
@@ -25,4 +25,4 @@ API不是一個現成的程式，拿到API並不會有一個現成的程式畫�
 
 您可以單獨使用其中某一種，或同時使用。 
 
-註: API 必須申請才可以開放使用，若您需要證券開戶或更進一步了解API請洽群益新竹e團隊。
+註: API 必須申請才可以開放使用，若您需要證券開戶或更進一步了解API請洽群益中和x團隊。
